@@ -61,7 +61,7 @@
 
 
 /* Адаптив под телефон */
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1200px){
   .form {
     margin: 20vh 5vw;
     display: flex;

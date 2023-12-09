@@ -149,7 +149,7 @@ main .also-check h1{
 }
 
 /* Адаптив под телефон */
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1200px){
 	main .about {
 		padding-left: 5%;
 		padding-right: 5%;

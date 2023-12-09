@@ -134,7 +134,7 @@
 
 
 /* Адаптив под телефон */
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1200px){
 	main .market{
         padding: 0 5%;
     }
