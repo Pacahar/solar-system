@@ -216,6 +216,10 @@ footer .social > * > * {
 		font-size: 1.3rem;
 	}
 
+	header .burger .nav{
+		font-size: calc(70vw / 12);
+	}
+
 	#lp {
 		font-size: 3vh;
 	}
