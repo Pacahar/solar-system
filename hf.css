@@ -165,7 +165,7 @@ main {
 footer {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-	background-color: aliceblue;
+	background-color: white;
 	min-height: 10vh;
 }
 
